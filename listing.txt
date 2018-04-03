@@ -1,0 +1,57 @@
+https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz
+https://www.gutenberg.org/ebooks/55
+
+https://en.wikipedia.org/wiki/The_Marvelous_Land_of_Oz
+https://www.gutenberg.org/ebooks/54
+
+https://en.wikipedia.org/wiki/Ozma_of_Oz
+https://www.gutenberg.org/ebooks/486
+
+https://en.wikipedia.org/wiki/Dorothy_and_the_Wizard_in_Oz
+https://www.gutenberg.org/ebooks/420
+
+https://en.wikipedia.org/wiki/The_Road_to_Oz
+https://www.gutenberg.org/ebooks/485
+
+https://en.wikipedia.org/wiki/The_Emerald_City_of_Oz
+https://www.gutenberg.org/ebooks/517
+
+https://en.wikipedia.org/wiki/The_Patchwork_Girl_of_Oz
+https://www.gutenberg.org/ebooks/32094
+
+https://en.wikipedia.org/wiki/Tik-Tok_of_Oz
+https://www.gutenberg.org/ebooks/956
+
+https://en.wikipedia.org/wiki/The_Scarecrow_of_Oz
+https://www.gutenberg.org/ebooks/957
+
+https://en.wikipedia.org/wiki/Rinkitink_in_Oz
+https://www.gutenberg.org/ebooks/958
+
+https://en.wikipedia.org/wiki/The_Lost_Princess_of_Oz
+https://www.gutenberg.org/ebooks/959
+
+https://en.wikipedia.org/wiki/The_Tin_Woodman_of_Oz
+https://www.gutenberg.org/ebooks/30852
+
+https://en.wikipedia.org/wiki/The_Magic_of_Oz
+https://www.gutenberg.org/ebooks/419
+
+https://en.wikipedia.org/wiki/Glinda_of_Oz
+https://www.gutenberg.org/ebooks/961
+
+   5180   41069  225246 inputs/Dorothy_and_the_Wizard_in_Oz.txt
+   4630   39258  215797 inputs/Glinda_of_Oz.txt
+   4914   38097  211767 inputs/Ozma_of_Oz.txt
+   5530   48598  265439 inputs/Rinkitink_in_Oz.txt
+   6849   53007  294260 inputs/The_Emerald_City_of_Oz.txt
+   5404   46454  254509 inputs/The_Lost_Princess_of_Oz.txt
+   4795   38862  211147 inputs/The_Magic_of_Oz.txt
+   5730   41157  231223 inputs/The_Marvelous_Land_of_Oz.txt
+   7426   56540  308405 inputs/The_Patchwork_Girl_of_Oz.txt
+   4997   38731  216041 inputs/The_Road_to_Oz.txt
+   5408   45038  245219 inputs/The_Scarecrow_of_Oz.txt
+   5293   43599  237232 inputs/The_Tin_Woodman_of_Oz.txt
+   4642   39125  205628 inputs/The_Wonderful_Wizard_of_Oz.txt
+   6026   47405  262272 inputs/Tik-Tok_of_Oz.txt
+  76824  616940 3384185 total
